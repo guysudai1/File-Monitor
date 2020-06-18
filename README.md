@@ -1,2 +1,1 @@
-# File-Monitor
-Final 12th grade project 
+Pretty shitty file monitor detecting new IE file
